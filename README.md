@@ -10,11 +10,11 @@ So you can use the same parameters of lens profile (lcp) used by Camera Raw or P
 
 Before
 
-<img src="https://github.com/delphinus1024/rectilinear_undistort/sample.tif" style="width: 600px;"/>
+<img src="https://raw.githubusercontent.com/delphinus1024/rectilinear_undistort/master/sample.png" style="width: 600px;"/>
 
 After
 
-<img src="https://github.com/delphinus1024/rectilinear_undistort/result.tif" style="width: 600px;"/>
+<img src="https://raw.githubusercontent.com/delphinus1024/rectilinear_undistort/master/result.png" style="width: 600px;"/>
 
 ## Features
 
